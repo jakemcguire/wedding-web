@@ -1,0 +1,54 @@
+.header {
+    padding: 6px;
+    height: 36px;
+    font-size: 24px;
+    line-height: 36px;
+    display: flex;
+    flex-direction: row;
+}
+
+.container {
+    max-width: 36rem;
+    display: flex;
+    flex-direction: column;
+    min-height: calc(100vh - 58px);
+    margin: 0 auto;
+    text-align: center;
+}
+
+.hamburger {
+    cursor: pointer;
+    position: absolute;
+    right: 6px;
+}
+
+.menu {
+    position: absolute;
+    right: -6px;;
+    padding-right: 6px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    top: 30px;
+    background-color: #d7bcc6;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    z-index: 1000;
+    width: 300px;
+    text-align: right;
+}
+
+.menuOption {
+    display: block;
+}
+
+.menuOpen {
+    visibility: visible;
+}
+
+.menuClosed {
+    visibility: hidden;
+}
+
+.footer {
+    text-align: center;
+}
