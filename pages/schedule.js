@@ -4,6 +4,13 @@ import styles from '../styles/Schedule.module.css'
 export default function Schedule() {
   return (
     <section>
+      <Head>
+				<title>Lewis-McGuire Wedding | Weekend Program</title>
+				<meta
+					name="description"
+					content="Wedding schedule and events for the weekend of April 8-9, 2022"
+				/>
+			</Head>
       <h1>Weekend Program</h1>
       <div className={styles.schedule}>
         <span className={styles.day}>Friday, April 8</span>
