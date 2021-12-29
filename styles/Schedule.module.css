@@ -1,0 +1,19 @@
+.schedule {
+    text-align: left;
+}
+
+.day {
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+    padding-top: 50px;
+}
+
+.eventDetails {
+    margin-top: 18px;
+    margin-bottom: 36px;
+    font-size: 24px;
+    line-height: 40px;
+    display: flex;
+    flex-direction: column;
+}
