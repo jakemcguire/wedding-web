@@ -1,0 +1,10 @@
+.tabSet {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 36px 10px;
+}
+
+.navigationTab {
+    font-size: 18px;
+}

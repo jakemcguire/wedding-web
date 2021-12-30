@@ -1,12 +1,16 @@
+import Image from 'next/image'
 import styles from './activity.module.css'
+import pinSvg from '../public/images/map-pin.svg'
 
 export default function Activity({ title, street, city, state, zip, googleMaps, description }) {
     return (
-        <div className={styles.activityContainer}>
+        <div className={styles.activityContainer} key={title}>
             <div className={styles.title}>{title}</div>
             <div className={styles.location}>
-                <span className={styles.address}>{street}, {city}, {state} {zip}</span>
-                <span className={styles.googleMaps}><a href={googleMaps} target="_blank">Google Maps</a></span>
+                <a href={googleMaps} target="_blank">
+                    <Image src={pinSvg} width={16} height={16} />
+                    <span className={styles.address}>{street}, {city}, {state} {zip}</span>
+                </a>
             </div>
             <div className="description">{description}</div>
         </div>
