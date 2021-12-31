@@ -8,7 +8,7 @@ import inTownActivitiesSvg from '../public/images/in-town-activities.svg'
 import nearbyActivitiesSvg from '../public/images/nearby-activities.svg'
 import golfSvg from '../public/images/golf.svg'
 
-export default function Schedule() {
+export default function Activities() {
 	return (
 		<div>
 			<Head>
@@ -18,6 +18,7 @@ export default function Schedule() {
 					content="Lewis-McGuire Wedding: Activities in Palm Springs, California for wedding guests"
 				/>
 			</Head>
+			<h1>Daytime Recreation</h1>
 			<div className={styles.tabSet} id="tabSet">
 				<a href="#dining" className={styles.navigationTab}>
 					<Image src={diningSvg} height={36} width={36} />
