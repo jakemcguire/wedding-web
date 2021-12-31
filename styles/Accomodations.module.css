@@ -1,0 +1,32 @@
+.accomodations {
+    margin-bottom: 48px;
+}
+
+.accomodationContainer {
+    font-size: 16px;
+    text-align: left;
+    margin: 32px 10px;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.no-location-title {
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+
+.location {
+    cursor: pointer;
+    font-size: 14px;
+    height: 21px;
+    line-height: 21px;
+    font-style: italic;
+    margin: 4px 0;
+}
+
+.address {
+    vertical-align: top;
+    padding-left: 5px;
+}
