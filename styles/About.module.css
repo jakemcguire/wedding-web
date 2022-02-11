@@ -1,0 +1,15 @@
+.aboutContainer {
+    /* display: flex;
+    flex-direction: column; */
+}
+
+.section {
+    height: 250px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+
+.image {
+    /* max-height: 100%; */
+}
