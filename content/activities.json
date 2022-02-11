@@ -1,0 +1,230 @@
+{
+    "dining": [
+        {
+            "title": "King's Highway at The Ace Hotel",
+            "street": "701 E. Palm Canyon Drive",
+            "city": "Palm Springs",
+            "state": "CA",
+            "zip": "92264",
+            "description": "Diner and poolside patio serving food and drinks all day",
+            "url": "https://www.kingshighwaydiner.com/",
+            "googleMaps": "https://www.google.com/maps/place/King's+Highway/@33.800944,-116.539755,15z/data=!3m1!5s0x80db1b1487d15e09:0x76fcb1490bdcb27d!4m8!1m2!3m1!2sKing's+Highway!3m4!1s0x80db1b14883839e1:0xb77cc9ea2692b654!8m2!3d33.8009441!4d-116.5397551"
+        },
+        {
+            "title": "Workshop",
+            "street": "800 N. Palm Canyon Drive",
+            "city": "Palm Springs",
+            "state": "CA",
+            "zip": "92262",
+            "description": "Stylish eatery for inventive New American eats and seasonal craft cocktails in a former movie house. Reservations through Resy.",
+            "url": "https://workshopkitchenbar.com/",
+            "googleMaps": "https://www.google.com/maps/place/Workshop+Kitchen+%26+Bar/@33.8341451,-116.5465627,15z/data=!4m5!3m4!1s0x0:0xbebedb15a6ebbb96!8m2!3d33.8341454!4d-116.5466112"
+        },
+        {
+            "title": "Sandfish",
+            "street": "1556 N. Palm Canyon Drive",
+            "city": "Palm Springs",
+            "state": "CA",
+            "zip": "92262",
+            "description": "Small, upscale venue featuring sushi and Japanese seafood dishes by Engin Onural, plus whiskey cocktails and hip decor. Reservations through OpenTable.",
+            "url": "http://sandfishps.com/",
+            "googleMaps": "https://www.google.com/maps/place/Sandfish+Sushi+%26+Whiskey/@33.8441083,-116.5487289,17z/data=!3m1!5s0x80db1bc5074a205d:0xe5e9109803afd851!4m12!1m6!3m5!1s0x80db1bc500a3eb39:0x759facd0d411d787!2sSandfish+Sushi+%26+Whiskey!8m2!3d33.8441039!4d-116.5465349!3m4!1s0x80db1bc500a3eb39:0x759facd0d411d787!8m2!3d33.8441039!4d-116.5465349"
+        },
+        {
+            "title": "Bar Cecil",
+            "street": "1555 S. Palm Canyon Drive",
+            "city": "Palm Springs",
+            "state": "CA",
+            "zip": "92264",
+            "description": "A tribute to the restaurant's namesake Cecil Beaton, a British Renaissance man best known for his photographs of WWII battles and celebrities, costume designs and taste for the good life. Best known for their signature burger and the Fifty Dollar Martini made with Russian-imported Beluga vodka. Reservations 30 days in advance through OpenTable.",
+            "url": "http://www.barcecil.com/",
+            "googleMaps": "https://www.google.com/maps/place/Bar+Cecil/@33.8043641,-116.5482832,17z/data=!3m1!4b1!4m5!3m4!1s0x80db1b196b679907:0x8bf42422aa9bd1eb!8m2!3d33.8043596!4d-116.5460725"
+        },
+        {
+            "title": "Norma's (Parker Hotel)",
+            "street": "4200 E. Palm Canyon Drive",
+            "city": "Palm Springs",
+            "state": "CA",
+            "zip": "92264",
+            "description": "Stylish, comfy patio eatery at the Parker Hotel offering American breakfast, lunch, and dinner eats.",
+            "url": "https://www.parkerpalmsprings.com/food-and-drink",
+            "googleMaps": "https://www.google.com/maps/place/Norma's/@33.7952372,-116.5020253,17z/data=!3m1!4b1!4m5!3m4!1s0x80db1cba9bf877d9:0xa5f48564bfb976ca!8m2!3d33.7951791!4d-116.4999161"
+        },
+        {
+            "title": "Counter Reformation (Parker Hotel)",
+            "street": "4200 E. Palm Canyon Drive",
+            "city": "Palm Springs",
+            "state": "CA",
+            "zip": "92264",
+            "description": "Speakeasy wine bar hidden behind the Parker Hotel",
+            "url": "http://www.theparkerpalmsprings.com/dine/counter-reformation.php",
+            "googleMaps": "https://www.google.com/maps/place/Counter+Reformation/@33.7953314,-116.502598,17z/data=!3m1!4b1!4m5!3m4!1s0x80db1cba9f3bef07:0xee676ebec753ac47!8m2!3d33.7951645!4d-116.5004045"
+        }
+    ],
+    "inTownActivities": [
+        {
+            "title": "Poolside @ The Ace Hotel",
+            "street": "701 E. Palm Canyon Drive",
+            "city": "Palm Springs",
+            "state": "CA",
+            "zip": "92264",
+            "description": "Come lounge with us in the sun!",
+            "url": "https://acehotel.com/palm-springs/",
+            "googleMaps": "https://www.google.com/maps/place/Ace+Hotel+%26+Swim+Club/@33.8009284,-116.5397318,15z/data=!4m2!3m1!1s0x0:0x9a6d0c4d3dba305c?sa=X&ved=2ahUKEwi-7oL__of1AhXVHc0KHegaD8gQ_BJ6BAhGEAU"
+        },
+        {
+            "title": "Bike Palm Springs",
+            "street": "194 S. Indian Canyon",
+            "city": "Palm Springs",
+            "state": "CA",
+            "zip": "92262",
+            "description": "Former home of Hollywood, the palm tree-lined streets of the historic Movie Colony neighborhood are perfect for a flat and easy bike ride among some of the most charming Spanish-Colonial and modernist homes in Palm Springs. The Ace Hotel also owns a small fleet of free bikes for hotel guests.",
+            "url": "https://www.bikepsrentals.com/",
+            "googleMaps": "https://www.google.com/search?tbs=lf:1,lf_ui:10&tbm=lcl&sxsrf=AOaemvJd14cDR_BaHZm8pnNNwGet4hDpdw:1640746266441&q=bike+palm+springs&rflfq=1&num=10&ved=2ahUKEwjvqoKTgIj1AhXC5-AKHUJgAqsQtgN6BAgUEAg#rlfi=hd:;si:7413784389169738410;mv:[[33.846275156971096,-116.4756805194336],[33.78951315470899,-116.57962148317871],null,[33.817898864626024,-116.52765100130615],14]"
+        },
+        {
+            "title": "Palm Springs Art Museum",
+            "street": "101 N. Museum Drive",
+            "city": "Palm Springs",
+            "state": "CA",
+            "zip": "92262",
+            "description": "Enjoy the museum's famous collection of Western landscapes alongside a revolving set of contemporary art exhibitions.",
+            "url": "http://www.psmuseum.org/",
+            "googleMaps": "https://www.google.com/maps/place/Palm+Springs+Art+Museum/@33.8242065,-116.5499064,15z/data=!4m5!3m4!1s0x0:0xf5b5f9b369a4fe85!8m2!3d33.8242037!4d-116.5496555"
+        },
+        {
+            "title": "The Shops at Thirteen Forty Five",
+            "street": "1345 N. Palm Canyon Drive",
+            "city": "Palm Springs",
+            "state": "CA",
+            "zip": "92262",
+            "description": "A collective of shops in a E. Stewart Williams Designed Building with vintage and modern furniture and decor, lighting, jewelry, art and clothing, vintage pottery and specimen cactus.",
+            "url": "http://theshopsat1345.com/",
+            "googleMaps": "https://www.google.com/maps/place/The+Shops+At+Thirteen+Forty+Five/@33.8406566,-116.5471759,15z/data=!4m5!3m4!1s0x0:0xd5153e4ed5813a4d!8m2!3d33.8406566!4d-116.5471759"
+        },
+        {
+            "title": "Feel Good Spa @ The Ace Hotel",
+            "street": "701 E. Palm Canyon Drive",
+            "city": "Palm Springs",
+            "state": "CA",
+            "zip": "92264",
+            "description": "Take a break from the pool and cocktails with the Ace Hotel's on-property spa.",
+            "url": "https://acehotel.com/palm-springs/feel-good-spa/",
+            "googleMaps": "https://www.google.com/maps/place/Feel+Good+Spa/@33.800862,-116.5397679,15z/data=!4m2!3m1!1s0x0:0x81fd2635f0fc67f2?sa=X&ved=2ahUKEwjgmfiTgYj1AhWx5eAKHfxzAywQ_BJ6BAguEAU"
+        },
+        {
+            "title": "The Modern Tour",
+            "street": "1000 S. Palm Canyon Drive",
+            "city": "Palm Springs",
+            "state": "CA",
+            "zip": "92264",
+            "description": "Visit the former residences of Frank Sinatra, Elvis Presley, and Elizabeth Taylor with a tour operator offering insider tours of Palm Springs most architecturally significant homes. With work by noted architects including Richard Neutra, Donald Wexler, Albert Frey. Two hours, $200/person.",
+            "url": "http://moderntour.com/",
+            "googleMaps": "https://www.google.com/maps/place/The+Modern+Tour+-+Palm+Springs/@33.8083319,-116.5454005,15z/data=!4m5!3m4!1s0x0:0x5a3d7f97b570242d!8m2!3d33.8083319!4d-116.5454005"
+        },
+        {
+            "title": "Moorten Botanical Garden and Cactarium",
+            "street": "1701 S. Palm Canyon Drive",
+            "city": "Palm Springs",
+            "state": "CA",
+            "zip": "92264",
+            "description": "A one acre, family-owned botantical garden specializing in cacti and other desert plants, down the street from The Ace Hotel!",
+            "url": "http://www.moortenbotanicalgarden.com/",
+            "googleMaps": "https://www.google.com/maps/place/Moorten+Botanical+Garden/@33.8002471,-116.5483497,17z/data=!3m1!4b1!4m5!3m4!1s0x80db1b112b1f0d5f:0x2da60433679ab243!8m2!3d33.8002427!4d-116.5461557"
+        },
+        {
+            "title": "Palm Springs Aerial Tramway",
+            "street": "1 Tram Way",
+            "city": "Palm Springs",
+            "state": "CA",
+            "zip": "92262",
+            "description": "The largest rotating aerial tramway in the world, opened in September 1963 as a way of getting from the floor of the Coachella Valley to the top of San Jacinto Peak. Great views!",
+            "url": "http://www.pstramway.com/",
+            "googleMaps": "https://www.google.com/maps/place/Palm+Springs+Aerial+Tramway/@33.8370581,-116.6163002,17z/data=!3m1!4b1!4m5!3m4!1s0x80db10e9907f2593:0x98ecc9cc799b6df9!8m2!3d33.8370521!4d-116.614108"
+        }
+    ],
+    "nearbyActivities": [
+        {
+            "title": "Joshua Tree National Park",
+            "street": "Cottonwood Springs Road",
+            "city": "Chiriaco Summit",
+            "state": "CA",
+            "zip": "92201",
+            "description": "Arid low desert and vegetated high desert meet in this beloved natural gem, offering visitors stunning vistas and rewarding hikes. Scenic paved roads lead to viewpoints, all campgrounds, and trailheads. Spring blooming periods vary according to winter precipitation and temperatures, usually beginning in February at lower elevations and peaking park-wide in March and April, although cactuses may bloom into June.",
+            "url": "https://www.nps.gov/jotr/index.htm",
+            "googleMaps": "https://www.google.com/maps/place/Joshua+Tree+National+Park/@33.9002331,-116.1415501,10z/data=!3m1!4b1!4m5!3m4!1s0x80da8f85b965a87b:0x1977eda73aeb9de2!8m2!3d33.873415!4d-115.9009923"
+        },
+        {
+            "title": "Sunnylands",
+            "street": "37977 Bob Hope Drive",
+            "city": "Rancho Mirage",
+            "state": "CA",
+            "zip": "92270",
+            "description": "200-acre estate run by The Annenberg Foundation Trust at Sunnylands. The stunning public gardens (free to the public) are designed as an homage to the Annenberg's collection of Impressionist and Post-Impressionist paintings.",
+            "url": "https://www.sunnylands.org/",
+            "googleMaps": "https://www.google.com/maps/place/Sunnylands+Center+%26+Gardens/@33.7770149,-116.4128226,17z/data=!4m13!1m7!3m6!1s0x80dafd64516bd2f5:0xe4e1c750346daa34!2sSunnylands,+37977+Bob+Hope+Dr,+Rancho+Mirage,+CA+92270!3b1!8m2!3d33.7770105!4d-116.4106286!3m4!1s0x80dafd660dcf3455:0x76c5288ef369fa73!8m2!3d33.7804!4d-116.4088"
+        }
+    ],
+    "golf": [
+        {
+            "title": "Tahquitz Creek Golf Resort",
+            "street": "1885 Golf Club Drive",
+            "city": "Palm Springs",
+            "state": "CA",
+            "zip": "92264",
+            "description": "",
+            "url": "http://www.tahquitzgolfresort.com/",
+            "googleMaps": "https://www.google.com/maps/place/Tahquitz+Creek+Golf+Resort/@33.8008086,-116.4871196,17z/data=!3m1!4b1!4m5!3m4!1s0x80db1cc62479bee3:0x2da24f4f5d5691b4!8m2!3d33.8008042!4d-116.4849256"
+        },
+        {
+            "title": "PGA WEST Golf Courses",
+            "street": "55955 PGA Blvd",
+            "city": "La Quinta",
+            "state": "CA",
+            "zip": "92253",
+            "description": "Resort with 6 challenging golf courses surrounded by peaks, plus sleek clubhouses for fine dining.",
+            "url": "http://www.pgawest.com/",
+            "googleMaps": "https://www.google.com/maps/place/PGA+WEST+Private+Clubhouse+%26+Golf+Courses/@33.651247,-116.289173,13.75z/data=!4m9!1m2!2m1!1spga+west+palm+springs!3m5!1s0x80da57b9e6f95f67:0x1f843a5a063a84ef!8m2!3d33.6430785!4d-116.2665427!15sChVwZ2Egd2VzdCBwYWxtIHNwcmluZ3NaFyIVcGdhIHdlc3QgcGFsbSBzcHJpbmdzkgETcHJpdmF0ZV9nb2xmX2NvdXJzZQ"
+        },
+        {
+            "title": "Desert Willow Golf Resort",
+            "street": "38-995 Desert Willow Drive",
+            "city": "Palm Desert",
+            "state": "CA",
+            "zip": "92260",
+            "description": "Two landscaped public golf courses with many water features.",
+            "url": "http://www.desertwillow.com/",
+            "googleMaps": "https://www.google.com/maps/place/Desert+Willow+Golf+Resort/@33.7665392,-116.3688684,17z/data=!3m1!4b1!4m5!3m4!1s0x80dafc4faac7996f:0xa7ed9f8322c70b0e!8m2!3d33.7665348!4d-116.3666744"
+        },
+        {
+            "title": "Indian Wells Golf Resort",
+            "street": "44-500 Indian Wells Lane",
+            "city": "Indian Wells",
+            "state": "CA",
+            "zip": "92210",
+            "description": "36-hole golf resort rated by Golfweek Magazine as one of the best municipal courses in America.",
+            "url": "http://www.indianwellsgolfresort.com/",
+            "googleMaps": "https://www.google.com/maps/place/Indian+Wells+Golf+Resort/@33.7243145,-116.4696298,11z/data=!4m5!3m4!1s0x80dafeb46cda8559:0x5c5e0ba6601e795c!8m2!3d33.7242681!4d-116.329519"
+        },
+        {
+            "title": "SilverRock Resort",
+            "street": "79179 Ahmanson Lane",
+            "city": "La Quinta",
+            "state": "CA",
+            "zip": "92253",
+            "description": "Challenging 7200 yard municipal course sprawling over 200 acres at the foot of the Santa Rosa Mountains.",
+            "url": "http://www.silverrock.org/",
+            "googleMaps": "https://www.google.com/maps/place/SilverRock+Resort/@33.6682254,-116.2840764,17z/data=!3m1!4b1!4m5!3m4!1s0x80da562ba6171607:0xa81568b0088e3f6c!8m2!3d33.6681134!4d-116.2816617"
+        },
+        {
+            "title": "The Classic Club",
+            "street": "75-200 Classic Club Blvd",
+            "city": "Palm Desert",
+            "state": "CA",
+            "zip": "92211",
+            "description": "Arnold Palmer designed course that has previously hosted the Bob Hope Classic.",
+            "url": "http://www.classicclubgolf.com/",
+            "googleMaps": "https://www.google.com/maps/place/Classic+Club/@33.784556,-116.3463048,17z/data=!3m1!4b1!4m5!3m4!1s0x80dafc8938ddd0db:0xa16fe2c2289f2251!8m2!3d33.7846252!4d-116.3443511"
+        }
+    ]
+}
