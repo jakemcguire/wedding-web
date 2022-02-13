@@ -33,7 +33,7 @@ export default function Schedule() {
         <span className={styles.eventDetails}>
             <span>Dinner and Dancing</span>
             <span>The Commune @ The Ace Hotel</span>
-            <span>6:30-11:00 PM</span>
+            <span>6:30 PM 'til Late</span>
         </span>
       </div>
     </section>
