@@ -7,7 +7,7 @@ export default function Activity({ title, street, city, state, zip, googleMaps, 
         <div className={styles.activityContainer} key={title}>
             <div className={styles.title}>{title}</div>
             <div className={styles.location}>
-                <a href={googleMaps} target="_blank">
+                <a href={googleMaps} target="_blank"  rel="noreferrer">
                     <Image src={pinSvg} width={16} height={16} />
                     <span className={styles.address}>{street}, {city}, {state} {zip}</span>
                 </a>

@@ -16,7 +16,7 @@ export default function Schedule() {
         <span className={styles.day}>Friday, April 8</span>
         <span className={styles.eventDetails}>
             <span>Welcome Drinks</span>
-            <span><a href="https://www.thereefpalmsprings.com/" target="_blank">The Reef</a> (411 E. Palm Canyon Drive)</span>
+            <span><a href="https://www.thereefpalmsprings.com/" target="_blank" rel="noreferrer">The Reef</a> (411 E. Palm Canyon Drive)</span>
             <span>6:00-10:00 PM</span>
         </span>
         <span className={styles.day}>Saturday, April 9</span>
@@ -26,7 +26,7 @@ export default function Schedule() {
             <span>5:00-5:30 PM</span>
         </span>
         <span className={styles.eventDetails}>
-            <span>Cocktail Hour (featuring <a href="https://www.theblanktapes.com/" target="_blank">The Blank Tapes</a>)</span>
+            <span>Cocktail Hour (featuring <a href="https://www.theblanktapes.com/" target="_blank" rel="noreferrer">The Blank Tapes</a>)</span>
             <span>The Commune @ The Ace Hotel</span>
             <span>5:30-6:30 PM</span>
         </span>

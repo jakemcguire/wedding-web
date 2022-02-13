@@ -17,9 +17,6 @@ export default function Header() {
                     <Link href="/">
                         <a className={styles.menuOption}>Home</a>
                     </Link>
-                    <Link href="/about">
-                        <a className={styles.menuOption}>Our Story</a>
-                    </Link>
                     <Link href="/schedule">
                         <a className={styles.menuOption}>Weekend Program</a>
                     </Link>
@@ -29,9 +26,7 @@ export default function Header() {
                     <Link href="/accomodations">
                         <a className={styles.menuOption}>Travel &amp; Accomodations</a>
                     </Link>
-                    <Link href="/registry">
-                        <a className={styles.menuOption}>Registry</a>
-                    </Link>
+                    <a href="https://www.zola.com/registry/beccajakewedding" target="_blank" rel="noreferrer" className={styles.menuOption}>Registry</a>
                 </div>
             </div>
         </div>
