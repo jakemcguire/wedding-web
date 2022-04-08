@@ -114,3 +114,19 @@
     flex-direction: column;
   }
 }
+
+.container {
+  width: 380px;
+  margin: 0 auto;
+}
+
+.linkContainer {
+  text-align: left;
+  font-size: 32px;
+  line-height: 90px;
+}
+
+.linkContainer > a {
+  margin-left: 20px;
+  
+}
