@@ -22,7 +22,7 @@ export default function Schedule() {
         <span className={styles.day}>Saturday, April 9</span>
         <span className={styles.eventDetails}>
             <span>Wedding Ceremony</span>
-            <span>The Commune Garden @ The Ace Hotel</span>
+            <span>The Commune Garden @ <a href="https://acehotel.com/palm-springs/" target="_blank" rel="noreferrer">The Ace Hotel</a></span>
             <span>4:30-5:00 PM</span>
         </span>
         <span className={styles.eventDetails}>
